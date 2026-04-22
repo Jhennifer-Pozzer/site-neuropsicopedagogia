@@ -29,9 +29,9 @@ Criar um site moderno, responsivo e com foco em conversão, facilitando o contat
 
 ## 🔗 Acesse o projeto
 
-👉 https://seuusuario.github.io/site-neuropsicopedagogia
+👉  https://jhennifer-pozzer.github.io/site-neuropsicopedagogia/
 
 ## 📌 Autora
 
-Desenvolvido por Jhennifer Pozzer
+Desenvolvido por Jhennifer Pozzer Mesquita
 
